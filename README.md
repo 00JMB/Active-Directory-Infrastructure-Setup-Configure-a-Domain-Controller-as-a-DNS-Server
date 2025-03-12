@@ -171,6 +171,5 @@ At this stage, we have successfully:
 - **Established the Domain Controller as the DNS Server**.
 - **Validated connectivity between both systems**.
 
-This setup serves as the foundation for building an **Active Directory environment** and allows for further domain-related configurations such as **user authentication, group policies, and domain-joined machines**. With these fundamentals in place, we are now ready to explore more advanced Active Directory implementations.
-
-
+This setup serves as the foundation for building an **Active Directory environment** and allows for further domain-related configurations such as **user authentication, group policies, and domain-joined machines**. With these fundamentals in place, we are now ready to explore more advanced Active Directory implementations in the next lab: **<a href="https://github.com/00JMB/Configuring-On-premises-Active-Directory-within-Azure-VMs
+"> Configuring On-premises Active Directory within Azure VMs**
