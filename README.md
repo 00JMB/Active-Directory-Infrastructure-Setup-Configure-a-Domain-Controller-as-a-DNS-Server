@@ -1,4 +1,4 @@
-# Active Directory Infrastructure: Setting up a Domain Controller as a DNS Server With a Client
+<h1>Active Directory Infrastructure: Setting up a Domain Controller as a DNS Server With a Client</h1>
 
 ## 📌 Environments and Technologies Used
 
